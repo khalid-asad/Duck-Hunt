@@ -1,0 +1,16 @@
+Instructions:
+
+The goal of the game is to press on as many ducks as you can with your mouse.
+There is no time limit, but if you miss the duck 3 times, your score subtracts
+by 100. If you click a duck, you get 100 points. If you want to search the 
+high scores for a name press 1, sort the high scores from lowest to highest
+score press 2, save your current score press 3. Once you get to 1000 score you
+advance a round, same with 2500, 5000, 10000, etc until 1000000.
+
+1 = search
+2 = sort
+3 = save
+I = instructions
+Q = change speed to fastest
+W = change speed to medium
+E = change speed to slowest
